@@ -1,0 +1,698 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.7 (add)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="D:\Development\GitRepo\jakemorley\PyMorsels\add\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Development/Python/Python37/DLLs" type="simple" />
+            <root url="file://D:/Development/Python/Python37/Lib" type="simple" />
+            <root url="file://D:/Development/Python/Python37" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/add/venv" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/add/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/Development/GitRepo/jakemorley/PyMorsels/add/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/add/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1717235892" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Development/GitRepo/jakemorley/PyMorsels/add" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (SillyNameGenerator)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="D:\Development\GitRepo\jakemorley\Impractical\SillyNameGenerator\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Development/Python/Python37/DLLs" type="simple" />
+            <root url="file://D:/Development/Python/Python37/Lib" type="simple" />
+            <root url="file://D:/Development/Python/Python37" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/Impractical/SillyNameGenerator/venv" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/Impractical/SillyNameGenerator/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/Development/GitRepo/jakemorley/Impractical/SillyNameGenerator/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/Impractical/SillyNameGenerator/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/-2053128023" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Development/GitRepo/jakemorley/Impractical/SillyNameGenerator" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (Palindrome)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="D:\Development\GitRepo\jakemorley\Impractical\Palindrome\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Development/Python/Python37/DLLs" type="simple" />
+            <root url="file://D:/Development/Python/Python37/Lib" type="simple" />
+            <root url="file://D:/Development/Python/Python37" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/Impractical/Palindrome/venv" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/Impractical/Palindrome/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/Development/GitRepo/jakemorley/Impractical/Palindrome/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/Impractical/Palindrome/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/1383730237" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Development/GitRepo/jakemorley/Impractical/Palindrome" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (circle)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="D:\Development\GitRepo\jakemorley\PyMorsels\circle\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Development/Python/Python37/DLLs" type="simple" />
+            <root url="file://D:/Development/Python/Python37/Lib" type="simple" />
+            <root url="file://D:/Development/Python/Python37" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/circle/venv" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/circle/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/Development/GitRepo/jakemorley/PyMorsels/circle/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/circle/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/-748422427" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Development/GitRepo/jakemorley/PyMorsels/circle" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (Anagram)" />
+      <type value="Python SDK" />
+      <homePath value="D:\Development\GitRepo\jakemorley\PyMorsels\Anagram\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Development/Python/Python37/DLLs" type="simple" />
+            <root url="file://D:/Development/Python/Python37/Lib" type="simple" />
+            <root url="file://D:/Development/Python/Python37" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/Anagram/venv" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/Anagram/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/Development/GitRepo/jakemorley/PyMorsels/Anagram/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/Anagram/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/1147544886" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Development/GitRepo/jakemorley/PyMorsels/Anagram" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (Anagram) (2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="D:\Development\GitRepo\jakemorley\Impractical\Anagram\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Development/Python/Python37/DLLs" type="simple" />
+            <root url="file://D:/Development/Python/Python37/Lib" type="simple" />
+            <root url="file://D:/Development/Python/Python37" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/Impractical/Anagram/venv" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/Impractical/Anagram/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/Development/GitRepo/jakemorley/Impractical/Anagram/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/Impractical/Anagram/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/1703398407" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Development/GitRepo/jakemorley/Impractical/Anagram" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (fix_csv)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="D:\Development\GitRepo\jakemorley\PyMorsels\fix_csv\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Development/Python/Python37/DLLs" type="simple" />
+            <root url="file://D:/Development/Python/Python37/Lib" type="simple" />
+            <root url="file://D:/Development/Python/Python37" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/fix_csv/venv" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/fix_csv/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/Development/GitRepo/jakemorley/PyMorsels/fix_csv/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/fix_csv/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/-510944505" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Development/GitRepo/jakemorley/PyMorsels/fix_csv" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (Ciphers)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="D:\Development\GitRepo\jakemorley\Impractical\Ciphers\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Development/Python/Python37/DLLs" type="simple" />
+            <root url="file://D:/Development/Python/Python37/Lib" type="simple" />
+            <root url="file://D:/Development/Python/Python37" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/Impractical/Ciphers/venv" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/Impractical/Ciphers/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/Development/GitRepo/jakemorley/Impractical/Ciphers/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/Impractical/Ciphers/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/938206884" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Development/GitRepo/jakemorley/Impractical/Ciphers" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (compact)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="D:\Development\GitRepo\jakemorley\PyMorsels\compact\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Development/Python/Python37/DLLs" type="simple" />
+            <root url="file://D:/Development/Python/Python37/Lib" type="simple" />
+            <root url="file://D:/Development/Python/Python37" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/compact/venv" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/compact/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/Development/GitRepo/jakemorley/PyMorsels/compact/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/compact/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/1169688142" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Development/GitRepo/jakemorley/PyMorsels/compact" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (tail)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="D:\Development\GitRepo\jakemorley\PyMorsels\tail\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Development/Python/Python37/DLLs" type="simple" />
+            <root url="file://D:/Development/Python/Python37/Lib" type="simple" />
+            <root url="file://D:/Development/Python/Python37" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/tail/venv" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/tail/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/Development/GitRepo/jakemorley/PyMorsels/tail/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/tail/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/1828356005" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Development/GitRepo/jakemorley/PyMorsels/tail" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (decorators_practice)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="D:\Development\GitRepo\jakemorley\RealPython\decorators_practice\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Development/Python/Python37/DLLs" type="simple" />
+            <root url="file://D:/Development/Python/Python37/Lib" type="simple" />
+            <root url="file://D:/Development/Python/Python37" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/RealPython/decorators_practice/venv" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/RealPython/decorators_practice/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/Development/GitRepo/jakemorley/RealPython/decorators_practice/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/RealPython/decorators_practice/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/1663393107" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Development/GitRepo/jakemorley/RealPython/decorators_practice" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (point)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="D:\Development\GitRepo\jakemorley\PyMorsels\point\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Development/Python/Python37/DLLs" type="simple" />
+            <root url="file://D:/Development/Python/Python37/Lib" type="simple" />
+            <root url="file://D:/Development/Python/Python37" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/point/venv" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/point/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/Development/GitRepo/jakemorley/PyMorsels/point/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/point/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/1927808123" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Development/GitRepo/jakemorley/PyMorsels/point" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (parse_ranges)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="D:\Development\GitRepo\jakemorley\PyMorsels\parse_ranges\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Development/Python/Python37/DLLs" type="simple" />
+            <root url="file://D:/Development/Python/Python37/Lib" type="simple" />
+            <root url="file://D:/Development/Python/Python37" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/parse_ranges/venv" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/parse_ranges/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/Development/GitRepo/jakemorley/PyMorsels/parse_ranges/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/parse_ranges/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1918053833" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Development/GitRepo/jakemorley/PyMorsels/parse_ranges" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (meetup_date)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="D:\Development\GitRepo\jakemorley\PyMorsels\meetup_date\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Development/Python/Python37/DLLs" type="simple" />
+            <root url="file://D:/Development/Python/Python37/Lib" type="simple" />
+            <root url="file://D:/Development/Python/Python37" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/meetup_date/venv" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/meetup_date/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/Development/GitRepo/jakemorley/PyMorsels/meetup_date/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/meetup_date/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1107759530" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Development/GitRepo/jakemorley/PyMorsels/meetup_date" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (adaptyers_lab)" />
+      <type value="Python SDK" />
+      <homePath value="D:\Development\GitRepo\jakemorley\PowerfulPython\adaptyers_lab\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Development/Python/Python37/DLLs" type="simple" />
+            <root url="file://D:/Development/Python/Python37/Lib" type="simple" />
+            <root url="file://D:/Development/Python/Python37" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PowerfulPython/adaptyers_lab/venv" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PowerfulPython/adaptyers_lab/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/Development/GitRepo/jakemorley/PowerfulPython/adaptyers_lab/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PowerfulPython/adaptyers_lab/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/1859214216" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Development/GitRepo/jakemorley/PowerfulPython/adaptyers_lab" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (adapter_lab)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="D:\Development\GitRepo\jakemorley\PowerfulPython\adapter_lab\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Development/Python/Python37/DLLs" type="simple" />
+            <root url="file://D:/Development/Python/Python37/Lib" type="simple" />
+            <root url="file://D:/Development/Python/Python37" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PowerfulPython/adapter_lab/venv" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PowerfulPython/adapter_lab/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/Development/GitRepo/jakemorley/PowerfulPython/adapter_lab/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PowerfulPython/adapter_lab/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/996258088" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Development/GitRepo/jakemorley/PowerfulPython/adapter_lab" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (uniques_only)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="D:\Development\GitRepo\jakemorley\PyMorsels\uniques_only\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Development/Python/Python37/DLLs" type="simple" />
+            <root url="file://D:/Development/Python/Python37/Lib" type="simple" />
+            <root url="file://D:/Development/Python/Python37" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/uniques_only/venv" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/uniques_only/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/Development/GitRepo/jakemorley/PyMorsels/uniques_only/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/uniques_only/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/1086221918" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Development/GitRepo/jakemorley/PyMorsels/uniques_only" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (sum_timestamps)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="D:\Development\GitRepo\jakemorley\PyMorsels\sum_timestamps\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Development/Python/Python37/DLLs" type="simple" />
+            <root url="file://D:/Development/Python/Python37/Lib" type="simple" />
+            <root url="file://D:/Development/Python/Python37" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/sum_timestamps/venv" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/sum_timestamps/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/Development/GitRepo/jakemorley/PyMorsels/sum_timestamps/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/sum_timestamps/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1435075930" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Development/GitRepo/jakemorley/PyMorsels/sum_timestamps" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (float_range)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="D:\Development\GitRepo\jakemorley\PyMorsels\float_range\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Development/Python/Python37/DLLs" type="simple" />
+            <root url="file://D:/Development/Python/Python37/Lib" type="simple" />
+            <root url="file://D:/Development/Python/Python37" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/float_range/venv" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/float_range/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/Development/GitRepo/jakemorley/PyMorsels/float_range/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/float_range/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/1475476037" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Development/GitRepo/jakemorley/PyMorsels/float_range" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (Month)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="D:\Development\GitRepo\jakemorley\PyMorsels\Month\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Development/Python/Python37/DLLs" type="simple" />
+            <root url="file://D:/Development/Python/Python37/Lib" type="simple" />
+            <root url="file://D:/Development/Python/Python37" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/Month/venv" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/Month/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/Development/GitRepo/jakemorley/PyMorsels/Month/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/Month/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/-999984821" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Development/GitRepo/jakemorley/PyMorsels/Month" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (suppress)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="D:\Development\GitRepo\jakemorley\PyMorsels\suppress\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Development/Python/Python37/DLLs" type="simple" />
+            <root url="file://D:/Development/Python/Python37/Lib" type="simple" />
+            <root url="file://D:/Development/Python/Python37" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/suppress/venv" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/suppress/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/Development/GitRepo/jakemorley/PyMorsels/suppress/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/PyMorsels/suppress/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/351438986" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Development/GitRepo/jakemorley/PyMorsels/suppress" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (collatz)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="D:\Development\GitRepo\jakemorley\atbswp\collatz\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Development/Python/Python37/DLLs" type="simple" />
+            <root url="file://D:/Development/Python/Python37/Lib" type="simple" />
+            <root url="file://D:/Development/Python/Python37" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/atbswp/collatz/venv" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/atbswp/collatz/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/Development/GitRepo/jakemorley/atbswp/collatz/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/atbswp/collatz/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/-2058956177" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Development/GitRepo/jakemorley/atbswp/collatz" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (untitled)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="D:\Development\GitRepo\jakemorley\atbswp\untitled\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Development/Python/Python37/DLLs" type="simple" />
+            <root url="file://D:/Development/Python/Python37/Lib" type="simple" />
+            <root url="file://D:/Development/Python/Python37" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/atbswp/untitled/venv" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/atbswp/untitled/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/Development/GitRepo/jakemorley/atbswp/untitled/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/atbswp/untitled/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1923589935" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Development/GitRepo/jakemorley/atbswp/untitled" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (TrinityRoller)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="D:\Development\GitRepo\jakemorley\TrinityRoller\TrinityRoller\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Development/Python/Python37/DLLs" type="simple" />
+            <root url="file://D:/Development/Python/Python37/Lib" type="simple" />
+            <root url="file://D:/Development/Python/Python37" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/TrinityRoller/TrinityRoller/venv" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/TrinityRoller/TrinityRoller/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/Development/GitRepo/jakemorley/TrinityRoller/TrinityRoller/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://D:/Development/GitRepo/jakemorley/TrinityRoller/TrinityRoller/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1412871467" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Development/GitRepo/jakemorley/TrinityRoller/TrinityRoller" />
+    </jdk>
+  </component>
+</application>
