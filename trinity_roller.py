@@ -80,32 +80,3 @@ async def on_ready():
 if not TEST:
     client.run(TOKEN)
 
-
-def test_1d10():
-    result1, result2 = check_dice_input('1')
-    assert result1 == 1
-    assert result2 == 10
-
-
-def test_10d10():
-    result1, result2 = check_dice_input('10')
-    assert result1 == 10
-    assert result2 == 10
-
-
-def test_10d10_no_reroll():
-    result1, result2 = check_dice_input('10n')
-    assert result1 == 10
-    assert result2 is None
-
-
-def test_10d10_reroll_8():
-    result1, result2 = check_dice_input('10r8')
-    assert result1 == 10
-    assert result2 == 8
-
-
-def test_garbage():
-    result1, result2 = check_dice_input('garbage')
-    assert result1 is None
-    assert result2 is None
