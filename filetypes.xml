@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="tests" type="Python" />
       <mapping pattern="fix_csv" type="Python" />
     </extensionMap>
